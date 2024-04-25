@@ -1,13 +1,29 @@
+### Begleitendes Buch (Teil 1): 
+-------------------------------
 Douglas, Alex, Deon Roos, Francesca Mancini, Ana Couto & David Lusseau, 2024: 
 An Introduction to R. 
 https://intro2r.com/
 
+
+### Einführung Git & Github aus RStudio:
+----------------------------------------
+An Introduction to R, Kap. 9: https://intro2r.com/github_r.html
+
+Bryan, Jennifer and Hester, Tim (2024): Happy Git and GitHub for the useR
+https://happygitwithr.com/
+
+
+### Link zur useR!2024 Konferenz im July:
+----------------------------------------- 
+https://events.linuxfoundation.org/user/
+
+
+### Weiterführende Literatur zur Programmieren in R: 
+----------------------------------------------------
 Ligges, U., 2008: Programmieren mit R, 3. Ed., Springer.
 https://link.springer.com/book/10.1007/978-3-540-79998-6
 
 Wickham, H., 2017: Advanced R, CRC.
 https://adv-r.hadley.nz/
 
-Bryan, Jennifer and Hester, Tim (2024): Happy Git and GitHub for the useR
-https://happygitwithr.com/
 
