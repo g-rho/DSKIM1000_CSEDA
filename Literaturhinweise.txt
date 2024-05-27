@@ -5,6 +5,7 @@ An Introduction to R.
 https://intro2r.com/
 
 
+
 ### Einführung Git & Github aus RStudio:
 ----------------------------------------
 An Introduction to R, Kap. 9: https://intro2r.com/github_r.html
@@ -13,9 +14,11 @@ Bryan, Jennifer and Hester, Tim (2024): Happy Git and GitHub for the useR
 https://happygitwithr.com/
 
 
+
 ### Link zur useR!2024 Konferenz im July:
 ----------------------------------------- 
 https://events.linuxfoundation.org/user/
+
 
 
 ### Weiterführende Literatur zur Programmieren in R: 
@@ -25,5 +28,17 @@ https://link.springer.com/book/10.1007/978-3-540-79998-6
 
 Wickham, H., 2017: Advanced R, CRC.
 https://adv-r.hadley.nz/
+
+
+
+### Weiterführende Literatur zur Datenvisuaklisierung: 
+------------------------------------------------------
+Wilke, C., 2018: Fundmentals of Data Visualization, O'Reilly.
+https://clauswilke.com/dataviz/
+
+Ihaka, R.: Course on Information visualization
+http://www.stat.auckland.ac.nz/~ihaka/courses/120
+
+
 
 
