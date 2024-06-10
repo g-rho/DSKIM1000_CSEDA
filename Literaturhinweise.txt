@@ -5,6 +5,11 @@ An Introduction to R.
 https://intro2r.com/
 
 
+### Selbststudium (Teil 2): 
+-------------------------------
+Biecek; P. et al. (2023): Chart Runners
+https://betaandbit.github.io/Charts/
+
 
 ### Einführung Git & Github aus RStudio:
 ----------------------------------------
@@ -14,11 +19,9 @@ Bryan, Jennifer and Hester, Tim (2024): Happy Git and GitHub for the useR
 https://happygitwithr.com/
 
 
-
 ### Link zur useR!2024 Konferenz im July:
 ----------------------------------------- 
 https://events.linuxfoundation.org/user/
-
 
 
 ### Weiterführende Literatur zur Programmieren in R: 
@@ -30,8 +33,7 @@ Wickham, H., 2017: Advanced R, CRC.
 https://adv-r.hadley.nz/
 
 
-
-### Weiterführende Literatur zur Datenvisuaklisierung: 
+### Weiterführende Literatur zur Datenvisualisierung: 
 ------------------------------------------------------
 Wilke, C., 2018: Fundmentals of Data Visualization, O'Reilly.
 https://clauswilke.com/dataviz/
@@ -39,6 +41,13 @@ https://clauswilke.com/dataviz/
 Ihaka, R.: Course on Information visualization
 http://www.stat.auckland.ac.nz/~ihaka/courses/120
 
+
+### Einführung in Kausale Inferenz: 
+-----------------------------------
+Lübke, K., Gehrke, M. Horst, J. und Szepannek, G, (2020):
+Why We Should Teach Causal Inference: Examples in Linear Regression With Simulated Data.
+Journal of statistics Education 28 (2).
+https://doi.org/10.1080/10691898.2020.1752859
 
 
 
