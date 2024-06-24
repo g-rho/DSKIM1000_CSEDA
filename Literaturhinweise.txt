@@ -50,4 +50,25 @@ Journal of statistics Education 28 (2).
 https://doi.org/10.1080/10691898.2020.1752859
 
 
+### R Markdown Cheatsheet:
+--------------------------
+https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf
+
+
+### mlr3shiny:
+--------------
+Github Repository:
+https://github.com/LamaTe/mlr3shiny
+
+Whitepaper:
+Szepannek, G., Tetzlaff, L. & Frahm, A. (2021):
+mlr³shiny: Machine Learning ohne Programmierkenntnisse.
+https://www.ki-mv.de/whitepaper-serie/
+
+
+### mlr3 book:
+--------------
+Bischl, B. et al. (2024):
+Applied Machine Learning Using mlr3 in R.
+https://mlr3book.mlr-org.com/
 
